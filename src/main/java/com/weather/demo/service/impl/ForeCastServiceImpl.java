@@ -1,4 +1,4 @@
-package com.weather.demo.service.impl;
+/*package com.weather.demo.service.impl;
 
 import java.io.IOException;
 import java.util.List;
@@ -82,3 +82,4 @@ public class ForeCastServiceImpl implements ForeCastService{
 
 
 
+*/
